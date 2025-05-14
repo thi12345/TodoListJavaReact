@@ -1,2 +1,2 @@
 # JwavaAndReactFirstTime
-a demo with basic CRUD (create, read, update, delete) functions using Java and ReactJS
+a mini project about employee management system with basic CRUD (create, read, update, delete) functions using Springboot and ReactJS
